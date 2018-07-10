@@ -1,0 +1,18 @@
+.header-text {
+	display: inline-block;
+	float: right;
+	clear: right;
+	margin: 0;
+}
+
+hr {
+	position: relative;
+	color: #7d97ad;
+	background-color: #7d97ad;
+	height: 4px;
+	width: 100%;
+}
+
+* {
+	box-sizing: border-box;
+}
