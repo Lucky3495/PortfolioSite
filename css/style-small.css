@@ -1,4 +1,13 @@
 /* Header */
+
 .logo {
-	width: 50px
+	width: 40px;
+}
+
+.name{
+	font-size: 25px;
+}
+
+.ninja {
+	font-size: 15px;
 }

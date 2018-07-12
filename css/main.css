@@ -1,18 +1,31 @@
+* {
+	box-sizing: border-box;
+}
+
+/*
+Header ------------------------
+*/
+
 .header-text {
-	display: inline-block;
+	position: relative;
 	float: right;
 	clear: right;
 	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.name{
+	font-size: 20px;
+}
+
+.ninja {
+	font-size: 15px;
 }
 
 hr {
 	position: relative;
-	color: #7d97ad;
 	background-color: #7d97ad;
-	height: 4px;
+	height: 5px;
 	width: 100%;
-}
-
-* {
-	box-sizing: border-box;
+	margin-top: 15px;
 }
