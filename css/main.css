@@ -2,6 +2,10 @@
 	box-sizing: border-box;
 }
 
+.text {
+	font-family: 'Montserrat', sans-serif;
+}
+
 /*
 	Header
 */
@@ -15,7 +19,10 @@ header {
 	float: right;
 	clear: right;
 	margin: 0;
-	font-family: 'Montserrat', sans-serif;
+}
+
+.ninja {
+	font-weight: 900;
 }
 
 hr {
@@ -34,4 +41,13 @@ hr {
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#featured-header {
+	color: #7d97ad;
+	font-weight: bold;
+}
+
+.featured-projects {
+	width: 100%;
 }
