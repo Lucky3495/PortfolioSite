@@ -54,6 +54,11 @@ hr {
 
 .project-link {
 	color: #3b79c9;
+	text-decoration: none;
 	word-wrap: break-word;
 	max-width: 100%;
+}
+
+.project-link:hover {
+	text-decoration: underline;
 }
